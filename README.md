@@ -1,5 +1,7 @@
 # EduSync
 
+https://www.edusync.site/
+
 ## 팀 소개
 
 - 이미지 누르면 GitHub 주소로 연결됩니다.
@@ -121,3 +123,9 @@
 |   [init]   | 브랜치 초기화 및 초기셋팅 관련된 설정일 경우          |
 
 <br/>
+
+***
+
+
+###결과물
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/8430ccff-78f0-4ffc-89b2-fef20207f464)
