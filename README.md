@@ -134,7 +134,58 @@ https://www.edusync.site/
 # 결과물
 ![image](https://github.com/wish9/EduSync_Project/assets/120456261/8430ccff-78f0-4ffc-89b2-fef20207f464)
 
-기술발표 영상, 서비스 메뉴얼, API 명세서, 테이블 명세서 + ERD, 화면 정의서, 요구사항 정의서 등 자세한 내용은 [Wiki](https://github.com/wish9/EduSync_Project/wiki/EduSync_Manual-(%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A9%94%EB%89%B4%EC%96%BC))를 참고해주세요.
+아래 첨부한 기술발표 영상, 서비스 메뉴얼, API 명세서, 테이블 명세서 + ERD, 화면 정의서, 요구사항 정의서의 내용은 [Wiki](https://github.com/wish9/EduSync_Project/wiki/EduSync_Manual-(%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A9%94%EB%89%B4%EC%96%BC))를 참고하시면 더 편하게 보실 수 있습니다.
 
-    
+## ERD
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/cf6fef12-33a2-48e3-80ff-7ff2291bdf6a)
+
+## 테이블 명세서
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/18a45a4d-7b8b-42d3-bc52-5e4f374dd8c3)
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/6474ae5d-9875-4a9b-8136-a00867744d3d)
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/876b4957-3a0c-4854-bc63-b27ae2047fe8)
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/c2627d4c-a7fa-4ffd-ba1c-7c3377abebd7)
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/b97d6f49-db49-4ccd-9403-f16edd332e61)
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/2d856fe1-e36b-43ce-ac2f-d11de15d0881)
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/147f4506-8e26-4f20-85cd-4b61223c6e59)
+
+***
+
+## 사용자 요구사항 정의서
+[MainProject-SRrequirement__05221518.xlsx](https://github.com/wish9/EduSync_Project/files/11589047/MainProject-SRrequirement__05221518.xlsx)
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/178d5333-c2cd-45f4-adad-2b4eea123e20)
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/882ec635-15f0-48f8-a161-5a32beae6fe1)
+
+***
+
+## API 명세서
+### Restdocs 문서화
+[edusync.zip](https://github.com/wish9/EduSync_Project/files/11589068/edusync.zip)
+
+### Postman 문서화
+https://documenter.getpostman.com/view/25534184/2s93eU3EHc
+![EduSync API문서 - documenter getpostman com](https://github.com/wish9/EduSync_Project/assets/120456261/5858f477-f39b-4ee1-9e07-d35d51502bb7)
+
+
+***
+
+## 화면 정의서
+https://www.figma.com/file/Zlh2cE91zwCgEXU9CKPWH6/EduSyc?type=design&node-id=0-1
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/6a5c1571-3639-412a-a2f6-4b21b18166c7)
+
+
+***
+
+## 서비스 메뉴얼
+[EduSync_Manual.pdf](https://github.com/wish9/EduSync_Project/files/11588842/EduSync_Manual.pdf)
+
+![EduSync_Manual1](https://github.com/wish9/EduSync_Project/assets/120456261/fe79ec10-e0f6-4800-ab1b-d2d82b4164b7)
+![EduSync_Manual2](https://github.com/wish9/EduSync_Project/assets/120456261/85890856-b2d5-4088-b486-ee610c57b4e4)
+![EduSync_Manual3](https://github.com/wish9/EduSync_Project/assets/120456261/f0f0ebbd-980e-499e-9f53-48d16e45e572)
+![EduSync_Manual4](https://github.com/wish9/EduSync_Project/assets/120456261/4d97e32d-4a76-4404-b196-cf77f9b94fed)
+![EduSync_Manual5](https://github.com/wish9/EduSync_Project/assets/120456261/293d4f98-2b4b-42df-b25d-c2bcd40838a4)
+![EduSync_Manual6](https://github.com/wish9/EduSync_Project/assets/120456261/36d77b99-007e-4d5c-abe3-4967376660ec)
+![EduSync_Manual7](https://github.com/wish9/EduSync_Project/assets/120456261/e17624bf-68a5-413a-b199-d1725903cd6c)
+![EduSync_Manual8](https://github.com/wish9/EduSync_Project/assets/120456261/178fb3a0-ce45-4973-9dde-a97f3722bd47)
+![EduSync_Manual9](https://github.com/wish9/EduSync_Project/assets/120456261/be5b6e61-b9ed-42e2-ab6f-526dd2f5ffce)
+![EduSync_Manual10](https://github.com/wish9/EduSync_Project/assets/120456261/4060552a-efcc-45e0-9e23-2f1d414fcd71) 
 
