@@ -2,6 +2,10 @@
 
 https://www.edusync.site/
 
+Projects, Actions, Discussions, PR, Issues에 관한 내용은 [codestates-seb/seb43_main_016](https://github.com/codestates-seb/seb43_main_016) 링크에서 확인해주시길 바라겠습니다.
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/f230d496-3056-43f4-9777-5e299e84e1db)
+
+
 ## 팀 소개
 
 - 이미지 누르면 GitHub 주소로 연결됩니다.
