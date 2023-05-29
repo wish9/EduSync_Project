@@ -136,8 +136,16 @@ https://www.edusync.site/
 
 아래 첨부한 기술발표 영상, 서비스 메뉴얼, API 명세서, 테이블 명세서 + ERD, 화면 정의서, 요구사항 정의서의 내용은 [Wiki](https://github.com/wish9/EduSync_Project/wiki/EduSync_Manual-(%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A9%94%EB%89%B4%EC%96%BC))를 참고하시면 더 편하게 보실 수 있습니다.
 
+## 기술발표 영상
+wish9의 발표 영상은 8:31 부터입니다. (댓글의 타임라인 참고바랍니다.)
+https://www.youtube.com/watch?v=Lp3dVE4-Wp0
+
+***
+
 ## ERD
 ![image](https://github.com/wish9/EduSync_Project/assets/120456261/cf6fef12-33a2-48e3-80ff-7ff2291bdf6a)
+    
+***
 
 ## 테이블 명세서
 ![image](https://github.com/wish9/EduSync_Project/assets/120456261/18a45a4d-7b8b-42d3-bc52-5e4f374dd8c3)
