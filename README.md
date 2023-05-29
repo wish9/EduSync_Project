@@ -133,5 +133,5 @@ https://www.edusync.site/
 ***
 
 
-###결과물
+### 결과물
 ![image](https://github.com/wish9/EduSync_Project/assets/120456261/8430ccff-78f0-4ffc-89b2-fef20207f464)
