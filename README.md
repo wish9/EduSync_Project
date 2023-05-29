@@ -104,6 +104,11 @@ https://www.edusync.site/
 
 </div>
 
+### 배포
+    
+![image](https://github.com/wish9/EduSync_Project/assets/120456261/004d22e1-5ef0-4156-b58e-36c0b87df060)
+
+    
 ## Git
 
 ### Commit Message
