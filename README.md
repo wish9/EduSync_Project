@@ -131,7 +131,10 @@ https://www.edusync.site/
 <br/>
 
 ***
-
-
-### 결과물
+# 결과물
 ![image](https://github.com/wish9/EduSync_Project/assets/120456261/8430ccff-78f0-4ffc-89b2-fef20207f464)
+
+기술발표 영상, 서비스 메뉴얼, API 명세서, 테이블 명세서 + ERD, 화면 정의서, 요구사항 정의서 등 자세한 내용은 [Wiki](https://github.com/wish9/EduSync_Project/wiki/EduSync_Manual-(%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A9%94%EB%89%B4%EC%96%BC))를 참고해주세요.
+
+    
+
